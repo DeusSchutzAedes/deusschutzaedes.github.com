@@ -1,4 +1,3 @@
-# deusschutzaedes.github.com
-Website
+# deusschutzaedes.github.io
+Structural & Earthquake Engineering
 
-- [http://deusschutzaedes.github.com]
